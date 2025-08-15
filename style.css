@@ -11,6 +11,8 @@ header{background-color: white;
     top:0px;
 
 }
+
+overflow: auto;
  img.wrap{position: relative;
    top: -50px;
    z-index: 0;
